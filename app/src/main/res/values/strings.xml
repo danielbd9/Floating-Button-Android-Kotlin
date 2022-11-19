@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ButtonFloatting</string>
+    <string name="app_name">Button Floating</string>
+    <string name="app_click">"Click OK!"</string>
 </resources>
